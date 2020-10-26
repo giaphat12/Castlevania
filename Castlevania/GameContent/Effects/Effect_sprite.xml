@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gamedata>
+		<sprite ID="FLAME_SPRITE_BURNING_01">
+			<frame l="421" t="93" r="439" b="125" />
+		</sprite>
+		<sprite ID="FLAME_SPRITE_BURNING_02">
+			<frame l="439" t="93" r="457" b="125" />
+		</sprite>
+		<sprite ID="FLAME_SPRITE_BURNING_03">
+			<frame l="457" t="93" r="475" b="125" />
+		</sprite>
+</gamedata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gamedata>
+		<animation ID="FLAME_ANI_BURNING" timeLoop="100">
+			<frame ID="FLAME_SPRITE_BURNING_01" />
+			<frame ID="FLAME_SPRITE_BURNING_02" />
+			<frame ID="FLAME_SPRITE_BURNING_03" />
+		</animation>
+</gamedata>

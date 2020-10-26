@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gamedata>
+		<sprite ID="BIG_SPRITE_HEART">
+			<frame l="1" t="11" r="25" b="31" />
+		</sprite>
+		
+		<sprite ID="SMALL_SPRITE_HEART">
+			<frame l="25" t="11" r="41" b="27" />
+		</sprite>
+		
+		<sprite ID="ITEM_SPRITE_DAGGER">
+			<frame l="295" t="45" r="327" b="63" />
+		</sprite>
+
+		<sprite ID="MORNING_SPRITE_STAR">
+			<frame l="199" t="31" r="231" b="63" />
+		</sprite>	
+
+		<sprite ID="MONEYBAG_SPRITE_RED">
+			<frame l="1" t="33" r="32" b="63" />
+		</sprite>
+		<sprite ID="MONEYBAG_SPRITE_BLUE">
+			<frame l="32" t="33" r="63" b="63" />
+		</sprite>
+		<sprite ID="MONEYBAG_SPRITE_WHITE">
+			<frame l="63" t="33" r="94" b="63" />
+		</sprite>
+
+		
+
+</gamedata>
